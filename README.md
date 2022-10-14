@@ -1,2 +1,2 @@
 # computervision
-Computer vision projects
+A Collection of Computer vision projects using OpenCV
